@@ -1,0 +1,2 @@
+# SWS
+Repository for projects
